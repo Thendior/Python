@@ -2,7 +2,7 @@
 
 # 100 mal würfel simulieren
 #anzahl von 1 2 3 4 5 6 ausgeben
-
+# v2
 # Eingabe
 eingabe = int(input("Wie oft soll gewürfelt werden "))
 anz = input
